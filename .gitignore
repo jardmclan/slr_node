@@ -1,0 +1,6 @@
+.vscode/
+input/
+node_modules/
+output/
+test_in/
+test_out/
